@@ -4,9 +4,9 @@
 
 ### 雜誌下載
 
-出刊年月       epub           ipad:PDF      A4:PDF     單頁 HTM     原始碼      全部下載
-------------   ----------     -----------   --------   -----------  ----------  -------------
-2014年10月     [epub]         [ipad.pdf]    [A4.pdf]   [pmag.html]  [code.zip]  [github]
+出刊年月       epub           ipad:PDF      A4:PDF     單頁 HTM     專案檢視
+------------   ----------     -----------   --------   -----------  -------------
+2014年10月     [epub]         [ipad.pdf]    [A4.pdf]   [pmag.html]  [github]
 
 ### 本期內容
 * 前言
@@ -39,6 +39,8 @@
 
 竭誠歡迎大家投稿，或者成為本雜誌的專欄作家，現在就可以加入 [少年科技人社團] 或  [程式人雜誌社團] 一同共襄盛舉。
 
+如果您要投稿，可以參考 [投稿須知] ，雖然編輯愛好 Markdown 格式，但我們可以接受各種格式的稿件，編輯會自行將稿件格式轉為 Markdown 後納入雜誌。
+
 本雜誌編輯為「陳鍾誠 (@ccckmit)」，若要聯絡編輯，請寄信到 <ccckmit@gmail.com>。
 
 [epub]: ../book/A4.epub
@@ -47,4 +49,4 @@
 [code.zip]: ../code.zip
 [pmag.html]: ../book/pmag.html
 [github]: https://github.com/programmermagazine/y201410
-
+[投稿須知]: http://programmermagazine.github.io/y201410/code/markdown/source/article1.html
